@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="minus" translatable="false">-</string>
+    <string name="app_name">rooTool</string>
+    <string name="settings">Settings</string>
+    <string name="advancedsettings">Advanced</string>
+    <string name="cancel">Cancel</string>
+    <string name="cannotbeundoneareyousureyouwanttodelete">"This cannot be undone!"</string>
+    <string name="cantopenfile">Cannot open this file</string>
+    <string name="cantreadfolder">Cannot read folder due to permissions</string>
+    <string name="changegroupowner">Change group/owner</string>
+    <string name="copiedtoclipboard">Copied to clipboard.</string>
+    <string name="copy">Copy</string>
+    <string name="copyfail">Copy failed!</string>
+    <string name="copying">Copying</string>
+    <string name="copysuccsess">Successfully copied.</string>
+    <string name="create">Create</string>
+    <string name="created">" Created."</string>
+    <string name="createmsg">Set a period before the text to create hidden folder.</string>
+    <string name="createnewfolder">Create new folder</string>
+    <string name="defaultdir">Default directory</string>
+    <string name="delete">Delete</string>
+    <string name="deletesuccess">Delete successful</string>
+    <string name="deleting">Deleting</string>
+    <string name="desc">desc</string>
+    <string name="detailed">Detailed</string>
+    <string name="details">Details</string>
+    <string name="dir_info">Folder information</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="edit">Edit</string>
+    <string name="empty">Empty</string>
+    <string name="enable_root">Enable root access</string>
+    <string name="enter_name">Enter name</string>
+    <string name="error">Error</string>
+    <string name="exit">Exit</string>
+    <string name="extractto">Extract to</string>
+    <string name="extractionsuccess">Package successfully extracted.</string>
+    <string name="filecreated">File was created.</string>
+    <string name="fileexists">File already exists.</string>
+    <string name="files">" Files"</string>
+    <string name="filewasrenamed">File was renamed.</string>
+    <string name="hiddenfiles">Hidden files</string>
+    <string name="itcouldntbefound">It couldnt be found.</string>
+    <string name="LastModified">Last modified:</string>
+    <string name="md5">MD5:</string>
+    <string name="move">Move</string>
+    <string name="movefail">Moving failed.</string>
+    <string name="movesuccsess">Successfully moved.</string>
+    <string name="moving">Moving</string>
+    <string name="multizip">Zip</string>
+    <string name="newfile">New file</string>
+    <string name="newfolderwasnotcreated">New folder was not created.</string>
+    <string name="ok">OK</string>
+    <string name="options">Options</string>
+    <string name="packing">Packing</string>
+    <string name="paste">Paste</string>
+    <string name="pressbackagaintoquit">Press back again to exit.</string>
+    <string name="rename">Rename</string>
+    <string name="search">Search</string>
+    <string name="searchtext">Search</string>
+    <string name="selectall">Select all</string>
+    <string name="share">Share</string>
+    <string name="shortcut">Create shortcut</string>
+    <string name="shortcutcreated">Shortcut created.</string>
+    <string name="showpreview">Thumbnails</string>
+    <string name="simple">Simple</string>
+    <string name="size">Used:</string>
+    <string name="uisettings">View settings</string>
+    <string name="unzipping">Extracting</string>
+    <string name="viewmode">View mode</string>
+    <string name="xdaforum">XDA forum</string>
+
+    <!-- sort preferences -->
+    <string name="sort">Sort</string>
+    <string name="sortpreferences">Sort preferences</string>
+    <string name="sort_reverselist">Reverse list</string>
+    <string name="sort_name">Name</string>
+    <string name="sort_size">Size</string>
+    <string name="sort_type">Type</string>
+    <string name="sort_date">Date</string>
+
+    <!-- theme -->
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+
+    <!-- permissions -->
+    <string name="permissions">Permissions</string>
+    <string name="owner">Owner:</string>
+    <string name="group">Group:</string>
+    <string name="others">Other:</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="execute">Execute</string>
+    <string name="permissionschanged">Permissions changed</string>
+
+    <!-- actionmode -->
+    <string name="_files">\u0020file(s)</string>
+    <string name="_selected">\u0020selected</string>
+
+    <!-- directory info dialog -->
+    <string name="location">Location:</string>
+    <string name="total">Total space:</string>
+    <string name="free">Free space:</string>
+    <string name="block_size">Block size:</string>
+    <string name="used">Used:</string>
+
+    <!-- bookmarks -->
+    <string name="bookmark">Bookmarks</string>
+    <string name="bookmarkadded">Bookmark added.</string>
+    <string name="bookmarkexist">Bookmark already exists!</string>
+    <string name="createbookmark">Create bookmark</string>
+
+    <!-- overwrite dialog -->
+    <string name="overwrite_title">Target file already exists</string>
+    <string name="overwrite_source">Source</string>
+    <string name="overwrite_destination">Destination</string>
+    <string name="overwrite_skip">Skip</string>
+    <string name="overwrite_skip_all">Skip all</string>
+    <string name="overwrite_replace">Replace</string>
+    <string name="overwrite_replace_all">Replace all</string>
+
+
+    <!-- init.d installer -->
+
+    <string name="installer">Installer</string>
+
+    <string name="aboutversion">Version #</string>
+    <string name="action_about">About</string>
+    <string name="action_changelog">Change Log</string>
+    <string name="action_settings">Settings</string>
+    <string name="version">version 0.03 beta </string>
+    <string name="developed">By Steve Lovejoy</string>
+    <string name="splashTitle"> </string>
+    <string name="switchTitle">rooTool</string>
+    <string name="initdtitlechoose">Choose a File</string>
+    <string name="romtitlechoose">Choose Files</string>
+
+    <string name="action_instructions">instructions</string>
+
+    <string name="aboutTV2">Developed by Steve Lovejoy </string>
+    <string name="aboutTV3">rooTool is an app for installing files/scripts onto an android device,\nIts main aim is to be a user friendly way of doing this with the minimal chance of messing up your system etc. </string>
+    <string name="instructionsTV1">Select what type of file you are installing from the Home screen.</string>
+    <string name="instructionsTV2">Init.d</string>
+    <string name="instructionsTV3">If you select init.d You will find yourself in the File Chooser, Navigate to your chosen file and click it, it doesnt matter if its a .zip as this will unzip it for you. The file path will be displayed Please check it, Then press the install button. after the installation has finished make sure your happy with your choice and press the Reboot button for the script to take effect.</string>
+    <string name="instructionsTV4">Rom.zip</string>
+    <string name="instructionsTV5">If you select init.d You will find yourself in the File Chooser, Navigate to your chosen file and click it,</string>
+    <string name="ratereview">Please rate and review this app on the \nGoogle Play Store </string>
+    <string name="changelog">
+    \nVersion 0.03
+    \n
+    \nInitial release
+    </string>
+
+    <string name="action_donate">Donations</string>
+    <string name="buy_string1">Buy me a coffee £1.20</string>
+    <string name="clickme_string1">Click Me</string>
+    <string name="buy_string2">Buy me 2 coffee\'s £2.00</string>
+    <string name="clickme_string2">Click Me</string>
+    <string name="buy_string3">Buy me 3 coffee\'s £3.00</string>
+    <string name="clickme_string3">Click Me</string>
+    <string name="buy_string4">Buy me 4 coffee\'s £4.00</string>
+    <string name="clickme_string4">Click Me</string>
+
+
+</resources>
